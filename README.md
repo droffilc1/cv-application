@@ -13,7 +13,7 @@ Input fields
 * REACT
 
 ## Live Demo
-For the link to the live demo, [Click here](https://droffilc1.github.io/cv-application/) :point_left:
+For the link to the live demo, [Click here](https://sparkly-sunflower-7582a3.netlify.app/) :point_left:
 
 ## Running The Project
 To get a local copy up and running you just need to follow the following steps in your terminal;
