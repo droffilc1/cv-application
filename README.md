@@ -9,6 +9,7 @@ A cv application basically saves you time in building your CV.
 Input fields
 
 ## Built With
+* CSS
 * REACT
 
 ## Live Demo
