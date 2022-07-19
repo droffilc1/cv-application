@@ -33,7 +33,7 @@ Here you're copying the contents of the The-Office repository on GitHub to your 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd The-Office
+cd cv-application
 ```
 
 ## Contributors
