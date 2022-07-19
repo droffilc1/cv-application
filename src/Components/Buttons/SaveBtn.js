@@ -3,12 +3,9 @@ import React from 'react'
 function SaveBtn() {
   const handlePageLayout = () => {
 
-    // disable buttons
-
+  
     const buttons = document.getElementsByTagName('button');
     Array.from(buttons, (button) => (button.style.display = 'none'));
-
-    // disable input field, cursor pointer and hover effect
 
     const inputs = document.getElementsByTagName('input');
     Array.from(inputs, (input) => {

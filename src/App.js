@@ -1,4 +1,11 @@
+import React from 'react';
 import './App.css';
+import General from './Components/General';
+import Work from './Components/Work/Work';
+import Education from './Components/Education/Education';
+import SaveBtn from './Components/Buttons/SaveBtn'
+
+
 
 function App() {
   return (
@@ -7,7 +14,7 @@ function App() {
         <SaveBtn />
       </div>
       <div className="gen-info-section">
-        <GeneralInfo />
+        <General />
       </div>
       <div className="work-section">
         <Work />
